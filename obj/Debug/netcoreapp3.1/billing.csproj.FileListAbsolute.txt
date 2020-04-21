@@ -1,0 +1,11 @@
+C:\Git\billing\bin\Debug\netcoreapp3.1\billing.exe
+C:\Git\billing\bin\Debug\netcoreapp3.1\billing.deps.json
+C:\Git\billing\bin\Debug\netcoreapp3.1\billing.runtimeconfig.json
+C:\Git\billing\bin\Debug\netcoreapp3.1\billing.runtimeconfig.dev.json
+C:\Git\billing\bin\Debug\netcoreapp3.1\billing.dll
+C:\Git\billing\bin\Debug\netcoreapp3.1\billing.pdb
+C:\Git\billing\obj\Debug\netcoreapp3.1\billing.csprojAssemblyReference.cache
+C:\Git\billing\obj\Debug\netcoreapp3.1\billing.AssemblyInfoInputs.cache
+C:\Git\billing\obj\Debug\netcoreapp3.1\billing.AssemblyInfo.cs
+C:\Git\billing\obj\Debug\netcoreapp3.1\billing.dll
+C:\Git\billing\obj\Debug\netcoreapp3.1\billing.pdb
